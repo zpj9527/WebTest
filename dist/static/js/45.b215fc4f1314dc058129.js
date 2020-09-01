@@ -1,0 +1,1 @@
+webpackJsonp([45],{"+lbF":function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var r={render:function(){var e=this.$createElement;return(this._self._c||e)("div")},staticRenderFns:[]};var a=n("VU/8")({name:"buroomsetting"},r,!1,function(e){n("XO6o")},"data-v-3b227a66",null);t.default=a.exports},XO6o:function(e,t){}});
